@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faiz_ansari
 - 👀 I’m interested in ...Data_Engineering
-- 🌱 I’m currently learning ...Etl pipelines with Apache Spark for Big Data
+- 🌱 I’m currently learning ...Etl pipelines for Big Data
 - 📫 How to reach me ...via Linked_IN Profile 
 
 <!---
